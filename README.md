@@ -13,3 +13,7 @@ The fastest AI optimizer inspired by Elon Musk's vision! This script prunes 1 mi
 1. Clone this repository:
    ```bash
    git clone https://github.com/username/xAI-Optimizer.git
+
+   pip install numpy
+   
+python3 xai_optimizer.py
